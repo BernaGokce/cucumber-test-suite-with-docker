@@ -34,7 +34,7 @@ Feature: Checking shopping bag functionality
     #And I close campaing pop up
     When I search "iphone"
     Then "iphone" product page is opened
-    And I choose "4". element on the page
+    And I choose "5". element on the page
     Then Product page is opened
     And I see product price
     And I add the product in to the shopping box
