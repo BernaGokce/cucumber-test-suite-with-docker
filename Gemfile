@@ -6,4 +6,3 @@ gem 'capybara'
 gem 'rspec', :require => "spec"
 gem 'selenium-webdriver'
 gem "poltergeist"
-gem 'parallel_tests'
